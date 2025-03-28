@@ -1,0 +1,5 @@
+C:\Users\DenzelBendt\source\repos\Pacman _V2\Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_Tests
+C:\Users\DenzelBendt\source\repos\Pacman _V2\Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Tests
+C:\Users\DenzelBendt\source\repos\Pacman _V2\Tests\obj\Debug\net8.0\Tests.csproj.AssemblyReference.cache
+C:\Users\DenzelBendt\source\repos\Pacman _V2\Tests\obj\Debug\net8.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenzelBendt\source\repos\Pacman _V2\Tests\obj\Debug\net8.0\Tests.csproj.CoreCompileInputs.cache
